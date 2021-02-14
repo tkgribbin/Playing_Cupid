@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5e0f1974599afc64d8c6e388001a85c4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Lovely Yollandy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3eab64ec0335a38469a424271ccf1429, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
